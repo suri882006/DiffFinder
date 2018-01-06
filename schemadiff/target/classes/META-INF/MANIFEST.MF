@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: C5260818
+Class-Path: lib/diffutils-1.2.1.jar lib/mail-1.4.jar lib/activation-1.
+ 1.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: com.sap.dcs.slh.schemadiff.App
+
